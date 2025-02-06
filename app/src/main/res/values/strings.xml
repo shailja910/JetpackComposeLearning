@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">JetpackComposeLearning</string>
     <string name="title_activity_bjetpack_compose_layouts">B_JetpackComposeLayouts</string>
+    <string name="title_activity_cjetpack_compose_modifiers">C_JetpackComposeModifiers</string>
 </resources>
