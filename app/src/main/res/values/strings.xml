@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetpackComposeLearning</string>
+    <string name="title_activity_bjetpack_compose_layouts">B_JetpackComposeLayouts</string>
 </resources>
